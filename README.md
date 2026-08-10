@@ -34,21 +34,9 @@ The dashboard helps answer:
 
 ---
 
-## 📈 Dashboard Preview
 
-### Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
-
-### Sales Report
-
-![Sales Report](Screenshots/sales_report.png)
-
-### MTD Report
-
-![MTD Report](Screenshots/dashboard_mtd.png)
-
----
+--
 
 # 🔍 Key Business Insights
 
