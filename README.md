@@ -204,8 +204,8 @@ mobile-phone-sales-dashboard/
 │
 ├── Screenshots/
 │   ├── dashboard_overview.png
-│   ├── sales_report.png
-│   └── dashboard_mtd.png
+│   └──sales_report.png
+│   
 │
 └── Data/
     └── mobile_phone_sales.csv
